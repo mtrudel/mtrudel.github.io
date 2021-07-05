@@ -3,6 +3,7 @@ author: Mat Trudel
 email: "mat@geeky.net"
 twitter_username: mattrudel
 github_username: mtrudel
+rss: Subscribe
 description: >- # this means to ignore newlines until "baseurl:"
 url: "https://mat.geeky.net" 
 google_analytics: UA-19676467-1
