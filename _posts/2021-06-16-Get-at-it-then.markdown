@@ -62,7 +62,7 @@ aren't as discoverable as they should be, which is a particular shame as this is
 where the unique genius of OTP really shines. 
 
 [Thousand Island](https://github.com/mtrudel/thousand_island) and
-[bandit](https://github.com/mtrudel/bandit) are a key missing piece to help bridge this gap.
+[bandit](https://github.com/mtrudel/bandit) are key missing pieces to help bridge this gap.
 Between them, they provide some very tangible benefits to the Elixir community:
 
 * Thousand Island provides straightforward & extremely flexible APIs entirely in native Elixir,
@@ -77,7 +77,7 @@ Between them, they provide some very tangible benefits to the Elixir community:
   (HTTP/1.1), [RFC 7540](https://datatracker.ietf.org/doc/html/rfc7540) (HTTP/2), and [RFC
   6455](https://datatracker.ietf.org/doc/html/rfc6455) (WebSockets) and is built specifically to
   serve a Plug API. Less complexity & modern idioms make bandit the obvious choice for future
-  development on emerging standards such as [QUIC](https://datatracker.ietf.org/doc/html/rfc9000). 
+  development on emerging standards such as [QUIC](https://datatracker.ietf.org/doc/html/rfc9000)
 
 * Both libraries have been built from day one to be approachable, clean in design, and easy to
   understand and extend. They both deeply embrace OTP design principles and serve as great case
